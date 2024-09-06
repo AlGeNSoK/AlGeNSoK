@@ -19,3 +19,6 @@ Python в веб-разработке. [Примеры в репозитории
 [Профессиональная работа с Python](https://github.com/AlGeNSoK/AlGeNSoK/blob/main/Sertificate/05_ProfPython.pdf)  
 [Django: создание backend-приложений](https://github.com/AlGeNSoK/AlGeNSoK/blob/main/Sertificate/06_Django.pdf)  
 [Python в веб-разработке](https://github.com/AlGeNSoK/AlGeNSoK/blob/main/Sertificate/07_PythonWeb.pdf)
+
+
+### [Мое резюме](https://docs.google.com/document/d/1NEGNnUosFgNCgSOJIcpYWB5F_cMRSsLjzPHcJjIKhSo/edit?usp=sharing)
