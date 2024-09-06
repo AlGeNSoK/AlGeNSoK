@@ -4,10 +4,10 @@
 ## Вот, что я умею
 Python. [Курсовая работа](https://github.com/AlGeNSoK/Backup-foto-from-VK)  
 Django. [Репозиторий с дипломной работой](https://github.com/AlGeNSoK/netology_final_diplom)  
-Профессиональная работа с Python. [Примеры в репозитории](https://github.com/stars/AlGeNSoK/lists/profpython)
+Профессиональная работа с Python. [Примеры в репозитории](https://github.com/stars/AlGeNSoK/lists/profpython)  
 [Командный курсовой проект](https://github.com/AlGeNSoK/VKinder)  
 Работа с базами данных. [Примеры в репозитории](https://github.com/stars/AlGeNSoK/lists/database)  
-Python в веб-разработке. [Примеры в репозитории](https://github.com/stars/AlGeNSoK/lists/webpython)
+Python в веб-разработке. [Примеры в репозитории](https://github.com/stars/AlGeNSoK/lists/webpython)  
 [Создание и заполнение справочника на основе PDF документа](https://github.com/AlGeNSoK/O2RUS_project)  
 
 
