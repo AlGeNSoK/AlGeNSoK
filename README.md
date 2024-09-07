@@ -21,4 +21,4 @@
 - [Python в веб-разработке](https://github.com/AlGeNSoK/AlGeNSoK/blob/main/Sertificate/07_PythonWeb.pdf)
 
 
-### [Мое резюме](https://docs.google.com/document/d/1NEGNnUosFgNCgSOJIcpYWB5F_cMRSsLjzPHcJjIKhSo/edit?usp=sharing)
+### [Мое резюме](https://docs.google.com/document/d/1RI8mt4_9sZFO5yjQkJlUsLJwz-Td9iemFz_bMqRUIQc/edit?usp=sharing)
