@@ -1,5 +1,11 @@
 ## Привет!
-Я Соколов Александр, разработчик на python.
+Я Соколов Александр, разработчик на python.  
+
+### Мои контакты
+- телефон: +7 921 684-78-80
+- email: algensok@gmail.com
+- Telegram: @AlGeNSoK
+
 
 ## Вот, что я умею
 - Python. [Курсовая работа](https://github.com/AlGeNSoK/Backup-foto-from-VK)  
@@ -19,6 +25,7 @@
 - [Профессиональная работа с Python](https://github.com/AlGeNSoK/AlGeNSoK/blob/main/Sertificate/05_ProfPython.pdf)  
 - [Django: создание backend-приложений](https://github.com/AlGeNSoK/AlGeNSoK/blob/main/Sertificate/06_Django.pdf)  
 - [Python в веб-разработке](https://github.com/AlGeNSoK/AlGeNSoK/blob/main/Sertificate/07_PythonWeb.pdf)
+- [Python-разработчик с нуля до middle](https://github.com/AlGeNSoK/AlGeNSoK/blob/main/Sertificate/08_Python_middle.pdf)
 
 
-### [Мое резюме](https://docs.google.com/document/d/1RI8mt4_9sZFO5yjQkJlUsLJwz-Td9iemFz_bMqRUIQc/edit?usp=sharing)
+### [Мое резюме](https://docs.google.com/document/d/1MNpuQZ9Uo16ao6TsHn83aXT3o-KvgiDV7Lh23TjVIq0/edit?usp=sharing)
